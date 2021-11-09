@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.Icollect.pages.DeferredRemarksEntryAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredRemarksEntryAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="210" x="282" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.util.ElementCommon" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/util/ElementCommon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1683" width="243" x="9882" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.Icollect.pages.DeferredCollectionEntryAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredCollectionEntryAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="531" width="214" x="836" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.Icollect.pages.DownloadSchedulePage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DownloadSchedulePage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="603" width="282" x="3014" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.Icollect.pagesTest_B_Type.InstrumentLiquidationPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/InstrumentLiquidationPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="244" x="13304" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" 
+    name="com.Icollect.pagesTest_O_Type.DataEntryAndAuthPageTest_O_Type_multiplenstWithMultiPleEnrichment" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/DataEntryAndAuthPageTest_O_Type_multiplenstWithMultiPleEnrichment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="435" x="10039" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.Icollect.pages.InstrumentLiqStatReversalPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/InstrumentLiqStatReversalPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="249" x="8872" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.Icollect.pagesTest_N_Type.InstrumentLiquidationPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/InstrumentLiquidationPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="244" x="13588" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.Icollect.pages.CorrBankWithdrawalDispBankWisePage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/CorrBankWithdrawalDispBankWisePage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="264" x="532" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.Icollect.pagesTest_O_Type.DownloadScheduleTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/DownloadScheduleTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="246" x="3014" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.Icollect.pagesTest_O_Type.InstrumentReceiptPageWithAuthTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/InstrumentReceiptPageWithAuthTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="283" x="12454" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.Icollect.pagesTest_B_Type.DeferredRemarksEntryPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DeferredRemarksEntryPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="234" x="14159" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.Icollect.pagesTest_B_Type.InstrumentLiqStatReversalPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/InstrumentLiqStatReversalPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="284" x="8177" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.Icollect.pages.InstrumentLiquidationPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/InstrumentLiquidationPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1197" width="235" x="9161" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.Icollect.pagesTest_B_Type.LoginPageTest" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/LoginPageTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="155" x="11990" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.Icollect.pagesTest_O_Type.InstrumentLiqStatReversalPageWithAuthTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/InstrumentLiqStatReversalPageWithAuthTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="330" x="1090" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.Icollect.pages.DeferredCollectionEntryPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredCollectionEntryPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="963" width="364" x="9478" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.Icollect.pages.TransactionsPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/TransactionsPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1539" width="419" x="10207" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.Icollect.pagesTest_B_Type.DeferredCollectionEntryPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DeferredCollectionEntryPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="238" x="836" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.Icollect.pagesTest_B_Type.DeferredCollectionEntryPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DeferredCollectionEntryPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="261" x="9478" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.Icollect.pages.DashboardPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DashboardPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2187" width="268" x="1460" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.Icollect.pages.TransactionUploadAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/TransactionUploadAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="185" x="1768" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.Icollect.pages.LiquidationUploadRRPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/LiquidationUploadRRPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="170" x="1993" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.Icollect.pages.CBWUploadPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/CBWUploadPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="621" width="374" x="8181" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.Icollect.pages.DeferredEnrichmentUploadRRPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredEnrichmentUploadRRPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="765" width="223" x="2203" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.Icollect.pages.scheduleLiquidationAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/scheduleLiquidationAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="193" x="11393" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.Icollect.pagesTest_B_Type.ScheduleLiquidationPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/ScheduleLiquidationPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="224" x="11393" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.Icollect.pages.DeferredEnrichmentUploadAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredEnrichmentUploadAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="233" x="2466" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.Icollect.pages.LoginPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/LoginPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="149" x="11626" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <component id="30" language="java" name="src/test/resources/data/loggers.jar" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/resources/data/loggers.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="39" width="114" x="3895" y="-1586"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </component>  
+  <class id="31" language="java" name="com.Icollect.pagesTest_N_Type.DeferredCollectionUploadAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/DeferredCollectionUploadAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="451" x="7932" y="5594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.Icollect.pagesTest_N_Type.UploadRejRepairPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/UploadRejRepairPageTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="309" x="9685" y="5594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.Icollect.pagesTest_B_Type.DeferredEnrichmentEntryPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DeferredEnrichmentEntryPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="239" x="13025" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.Icollect.pages.CBWUploadRRPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/CBWUploadRRPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="747" width="235" x="2739" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.util.ElementCommon.classException" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/util/ElementCommon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="178" x="9779" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.Icollect.pages.DeferredCollectionUploadPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredCollectionUploadPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="621" width="253" x="3336" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.Icollect.pagesTest_N_Type.TransactioUploadAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/TransactioUploadAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="469" x="8423" y="5594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.Icollect.pages.DBPCLPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DBPCLPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="219" x="3629" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.Icollect.pages.InstrumentReceiptPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/InstrumentReceiptPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="166" x="11815" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.Icollect.pagesTest_N_Type.CorrBankWithdrawalDispBankWiseAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/CorrBankWithdrawalDispBankWiseAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="378" x="3888" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.Icollect.pages.InstrumentLiqStatReversalAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/InstrumentLiqStatReversalAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="231" x="4306" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.Icollect.pages.TransactionUploadPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/TransactionUploadPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1359" width="265" x="9270" y="2161"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.Icollect.pagesTest_B_Type.DeferredRemarksEntryPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DeferredRemarksEntryPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="208" x="14433" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.Icollect.pages.DispatchAllocationAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DispatchAllocationAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="187" x="4577" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.Icollect.pages.DepositStatusQueryPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DepositStatusQueryPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="317" x="4804" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="com.Icollect.pagesTest_N_Type.CBWUploadAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/CBWUploadAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="538" x="6435" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="com.Icollect.pagesTest_N_Type.DeferredEnrichmentUploadAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/DeferredEnrichmentUploadAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="298" x="8932" y="5594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.util.Setup" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/util/Setup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="729" width="192" x="7663" y="-1586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.Icollect.pagesTest_O_Type.CorrBankWithdrawalDispBankWiseAndAuthTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/CorrBankWithdrawalDispBankWiseAndAuthTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="378" x="5161" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" 
+    name="com.Icollect.pagesTest_O_Type.DataEntryAndAuthPageTest_O_Type_SingleInstWithEnrichment" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/DataEntryAndAuthPageTest_O_Type_SingleInstWithEnrichment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="383" x="10514" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.Icollect.pagesTest_O_Type.InstrumentLiquidationPagewithAuthTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/InstrumentLiquidationPagewithAuthTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="300" x="5579" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.Icollect.pagesTest_B_Type.InstrumentReceiptPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/InstrumentReceiptPageTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="229" x="12185" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="com.Icollect.pages.InstrumentReceiptAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/InstrumentReceiptAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="184" x="12021" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="com.Icollect.pages.DeferredEnrichmentEntryPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredEnrichmentEntryPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="243" x="12245" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="com.Icollect.pages.InstrumentLiquidationAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/InstrumentLiquidationAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="513" width="203" x="12528" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="com.Icollect.pages.DeferredCollectionUploadRRPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredCollectionUploadRRPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="765" width="214" x="5919" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="com.Icollect.pages.LiquidationUploadAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/LiquidationUploadAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="495" width="237" x="6173" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="com.Icollect.pagesTest_B_Type.DeferredEnrichmentEntryPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DeferredEnrichmentEntryPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="247" x="13872" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="com.Icollect.pagesTest_B_Type.InstrumentLiquidationPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/InstrumentLiquidationPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="280" x="8796" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="com.util.ReadConfig" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/util/ReadConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="170" x="7892" y="6129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="com.Icollect.pages.DeferredEnrichmentEntryAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredEnrichmentEntryAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="223" x="12771" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="com.Icollect.pages.LiquidationUploadPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/LiquidationUploadPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="495" width="237" x="8595" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="com.Icollect.pagesTest_B_Type.InstrumentReceiptPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/InstrumentReceiptPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="208" x="12777" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="com.Icollect.pages.UploadRRPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/UploadRRPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="3393" width="217" x="9978" y="2161"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="com.Icollect.pagesTest_B_Type.InstrumentLiqStatReversalPageAuthTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/InstrumentLiqStatReversalPageAuthTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="255" x="8501" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="com.Icollect.pages.DispatchAllocationPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DispatchAllocationPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="232" x="6450" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="com.Icollect.pages.DeferredRemarksEntryPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredRemarksEntryPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="711" width="248" x="13034" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="com.Icollect.pages.scheduleLiquidationPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/scheduleLiquidationPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="531" width="202" x="13322" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="com.Icollect.pagesTest_O_Type.DispatchAllocationAndAuthPageTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/DispatchAllocationAndAuthPageTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="280" x="6722" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="com.Icollect.pages.CorrBankWithdrawalDispBankWiseAuthPage" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/CorrBankWithdrawalDispBankWiseAuthPage.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="281" x="7042" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="com.Icollect.pagesTest_N_Type.LiquidationUploadRRAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/LiquidationUploadRRAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="261" x="7591" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="com.Icollect.pages.DeferredEnrichmentUploadPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredEnrichmentUploadPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="621" width="260" x="7363" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="com.Icollect.pages.DeferredCollectionUploadAuthPage" project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pages/DeferredCollectionUploadAuthPage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="224" x="7663" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="com.Icollect.pagesTest_N_Type.DeferredCollectionUploadRRAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/DeferredCollectionUploadRRAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="375" x="9270" y="5594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="com.Icollect.pagesTest_N_Type.CBWUploadRejectRepairAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/CBWUploadRejectRepairAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="538" x="7013" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="com.Icollect.pagesTest_N_Type.DataEntryAndAuthPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/DataEntryAndAuthPageTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="214" x="7927" y="-817"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="com.Icollect.pagesTest_N_Type.LiquidationUploadAndAuthTest_N_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/LiquidationUploadAndAuthTest_N_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="245" x="7892" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="com.Icollect.pagesTest_B_Type.DataEntryAndAuthPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/DataEntryAndAuthPageTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="711" width="395" x="10937" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="com.Icollect.pagesTest_B_Type.ScheduleLiquidationPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_B_Type/ScheduleLiquidationPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="251" x="14681" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="com.Icollect.pagesTest_N_Type.InstrumentLiquidationPageTest" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_N_Type/InstrumentLiquidationPageTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="280" x="9116" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="com.Icollect.pagesTest_O_Type.ScheduleLiquidationPageWithAuthTest_O_Type" 
+    project="icollecttestingui" 
+    file="/icollecttestingui/src/test/java/com/Icollect/pagesTest_O_Type/ScheduleLiquidationPageWithAuthTest_O_Type.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="293" x="11657" y="1410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="53"/>  
+  </generalization>  
+  <association id="83">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="84" name="schLiqAuth"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="88">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="89" name="login"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="91">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="39"/>  
+  </generalization>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="93">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="94" name="enrichmentEntry"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="97" name="enrichmentEntryAuth"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="100">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="101" name="cbwUpload"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="103">    
+    <end type="SOURCE" refId="81"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="104">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="105" name="dispAllocationAuth"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="107">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="108" name="instLiq"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="110">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <association id="111">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="112" name="schLiq"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="115">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="116">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="117" name="dashboard"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="119">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="62"/>  
+  </generalization>  
+  <generalization id="120">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="121">    
+    <bendpoint x="7173" y="2161"/>    
+    <bendpoint x="7173" y="5594"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="122" name="readconfig"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <bendpoint x="7461" y="2161"/>    
+    <bendpoint x="7461" y="5594"/>    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="125" name="readconfig"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="127">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="62"/>  
+  </generalization>  
+  <generalization id="128">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="129">    
+    <bendpoint x="9426" y="1410"/>    
+    <bendpoint x="9426" y="-817"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="130">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="131" name="instLiqStatReversalAuth"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="133">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="134">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="55"/>  
+  </generalization>  
+  <association id="135">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="136" name="deferredcollEntry"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="138">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="139">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="53"/>  
+  </generalization>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="142">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="143" name="liqUpload"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="145">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="146">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="147" name="readconfig"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="149">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="68"/>  
+  </generalization>  
+  <generalization id="150">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="151">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="152" name="deferredCollUpload"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="154">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="155">    
+    <bendpoint x="9447" y="-817"/>    
+    <bendpoint x="9447" y="1410"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="156" name="tranUpload"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="158">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="159">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="160" name="deferredCollUploadAuth"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="163" name="readconfig"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="166" name="cbwRR"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="168">    
+    <bendpoint x="10008" y="1410"/>    
+    <bendpoint x="10176" y="-817"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="169">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="64"/>  
+  </generalization>  
+  <generalization id="170">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="171">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="172">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="173">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="174">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="175" name="remarksEntryAuth"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="177">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="178">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="179">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="180" name="liquidationUploadRR"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="182">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="183">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="184">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="185">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="186">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="187">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="61"/>  
+  </generalization>  
+  <generalization id="188">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="189">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="190" name="a"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="192">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <generalization id="193">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="194">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="195">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="196">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="197" name="dispAllocation"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="199">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="200" name="elecomm"/>      
+      <multiplicity id="201" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="202">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="203">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="204">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="205">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="206">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="207">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="208" name="instLiqStatReversal"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="210">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="211">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="212">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="213" name="instReceiptAuth"/>      
+      <multiplicity id="214" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="53" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="215">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="216" name="deferredCollUploadRR"/>      
+      <multiplicity id="217" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="218">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="219" name="remarksEntry"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="221">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="222">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="223">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="67"/>  
+  </generalization>  
+  <association id="224">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="225" name="downloadSch"/>      
+      <multiplicity id="226" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="227">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="228">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="229">    
+    <bendpoint x="11362" y="-817"/>    
+    <bendpoint x="11362" y="1410"/>    
+    <bendpoint x="11362" y="2161"/>    
+    <bendpoint x="11362" y="5594"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="230" name="readconfig"/>      
+      <multiplicity id="231" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="232">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="233">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="234">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <generalization id="235">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="236">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="237" name="tranUploadAuth"/>      
+      <multiplicity id="238" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="239">    
+    <bendpoint x="7901" y="2161"/>    
+    <bendpoint x="7901" y="5594"/>    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="240" name="readconfig"/>      
+      <multiplicity id="241" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="242">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="243" name="readconfig"/>      
+      <multiplicity id="244" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="245">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="55"/>  
+  </generalization>  
+  <association id="246">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="247" name="instLiqAuth"/>      
+      <multiplicity id="248" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="249">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="250">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="251" name="dbpcl"/>      
+      <multiplicity id="252" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="253">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="54"/>  
+  </generalization>  
+  <association id="254">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="255" name="readconfig"/>      
+      <multiplicity id="256" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="257">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="258">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="259">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <generalization id="260">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="261">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="262">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="263">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="264" name="readconfig"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="266">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="267" name="corrbankwithbank"/>      
+      <multiplicity id="268" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="269">    
+    <bendpoint x="7750" y="2161"/>    
+    <bendpoint x="7750" y="5594"/>    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="270" name="readconfig"/>      
+      <multiplicity id="271" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="272">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="67"/>  
+  </generalization>  
+  <generalization id="273">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <generalization id="274">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="275">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="276" name="trns"/>      
+      <multiplicity id="277" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="278">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="279">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="280" name="depositStatusQuery"/>      
+      <multiplicity id="281" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="282">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <association id="283">    
+    <bendpoint x="10155" y="-817"/>    
+    <bendpoint x="9987" y="1410"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="284" name="uploadRR"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="287" name="corrbankwithbankAuth"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="289">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="290">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="291">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="292" name="instReceipt"/>      
+      <multiplicity id="293" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="294">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="295">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="296" name="deferredcollEntryAuth"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="298">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="299" name="deferredEnrichmetUpload"/>      
+      <multiplicity id="300" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

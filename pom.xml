@@ -1,0 +1,228 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>DBProject</groupId>
+	<artifactId>DBProject</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>DBProject</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<!-- Plug-ins required for executing Tests -->
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.19.1</version>
+				<configuration>
+					<suiteXmlFiles>
+						<!-- TestNG suite XML files -->
+						<suiteXmlFile>testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
+					<testFailureIgnore>true</testFailureIgnore>
+				</configuration>
+			</plugin>
+
+		</plugins>
+
+	</build>
+
+	<!-- Dependencies required for Project -->
+
+	<dependencies>
+
+
+		<dependency>
+			<groupId>net.sourceforge.jexcelapi</groupId>
+			<artifactId>jxl</artifactId>
+			<version>2.6.12</version>
+		</dependency>
+		
+			<!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+		<dependency>
+			<groupId>io.appium</groupId>
+			<artifactId>java-client</artifactId>
+			<version>7.5.1</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>3.141.59</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/net.sf.sociaal/freetts -->
+		<dependency>
+			<groupId>net.sf.sociaal</groupId>
+			<artifactId>freetts</artifactId>
+			<version>1.2.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.14.3</version>
+		</dependency>
+
+		<dependency>
+			<groupId>loggers</groupId>
+			<artifactId>10.0.2</artifactId>
+			<scope>system</scope>
+			<version>1.0</version>
+			<systemPath>${basedir}\src\test\resources\data\loggers.jar</systemPath>
+		</dependency>
+
+		<!-- <dependency> <groupId>webDriver</groupId> <artifactId>1.5</artifactId> 
+			<scope>system</scope> <version>1.0</version> <systemPath>${basedir}\lib\ngwebdriver-1.1.5.jar</systemPath> 
+			</dependency> -->
+		<!-- <dependency> <groupId>webDriver</groupId> <artifactId>1.5</artifactId> 
+			<scope>system</scope> <version>1.0</version> <systemPath>${basedir}\lib\ngwebdriver-1.1.5.jar</systemPath> 
+			</dependency> -->
+		<!-- <dependency> <groupId>webDriver</groupId> <artifactId>1.5</artifactId> 
+			<scope>system</scope> <version>1.0</version> <systemPath>${basedir}\lib\ngwebdriver-1.1.5.jar</systemPath> 
+			</dependency> -->
+		<!-- <dependency> <groupId>webDriver</groupId> <artifactId>1.5</artifactId> 
+			<scope>system</scope> <version>1.0</version> <systemPath>${basedir}\lib\ngwebdriver-1.1.5.jar</systemPath> 
+			</dependency> -->
+
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>1.3.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>3.1.5</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-api</artifactId>
+			<version>3.141.59</version>
+		</dependency>
+
+		<dependency>
+			<groupId>net.rcarz</groupId>
+			<artifactId>jira-client</artifactId>
+			<version>0.5</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>3.2.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20190722</version>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.activation</groupId>
+			<artifactId>activation</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>javax.mail-api</artifactId>
+			<version>1.5.5</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+			<version>1.5.5</version>
+		</dependency>
+
+		<!-- ====================================fdhfdhfd======================================== -->
+
+		<dependency>
+			<groupId>net.sourceforge.tess4j</groupId>
+			<artifactId>tess4j</artifactId>
+			<version>4.2.1</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>ru.yandex.qatools.ashot</groupId>
+			<artifactId>ashot</artifactId>
+			<version>1.5.3</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.8.5</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<version>6.1.0.jre8</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-all -->
+		<dependency>
+			<groupId>org.hamcrest</groupId>
+			<artifactId>hamcrest-all</artifactId>
+			<version>1.3</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/net.sf.sociaal/freetts -->
+		<dependency>
+			<groupId>net.sf.sociaal</groupId>
+			<artifactId>freetts</artifactId>
+			<version>1.2.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.github.adiralashiva8</groupId>
+			<artifactId>testng-metrics</artifactId>
+			<version>1.6</version>
+		</dependency>
+
+
+	</dependencies>
+
+
+</project>
